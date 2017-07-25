@@ -1,0 +1,22 @@
+{
+  "name": "student-score-sheet",
+  "version": "1.0.0",
+  "description": "## 练习目标",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tws-practice/student-score-sheet.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tws-practice/student-score-sheet/issues"
+  },
+  "homepage": "https://github.com/tws-practice/student-score-sheet#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.7"
+  }
+}
