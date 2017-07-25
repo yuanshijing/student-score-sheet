@@ -84,7 +84,7 @@
 
 ## 如何开始：
 
-1. git clone https://github.com/goooooouwa/bootstrap-resume-starting-point.git
+1. `git clone https://github.com/tws-practice/student-score-sheet.git`
 2. 打开并修改项目文件，完成练习。
 
 ## 学习资源
